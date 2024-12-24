@@ -2,4 +2,4 @@
 
 ## CPU
 
-<img src="./CPU.png>
+<img src="./CPU.png">
